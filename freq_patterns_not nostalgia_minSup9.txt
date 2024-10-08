@@ -1,0 +1,354 @@
+favorites:9
+special:9
+soul:9
+mind:9
+60:9
+60s:9
+family:9
+ones:9
+things:9
+others:9
+pure:9
+please:9
+is:9
+though:9
+wonder:9
+person:9
+sung:9
+year:9
+handsome:9
+perfect:9
+born:9
+ll:9
+happy:9
+how:9
+almost:9
+end:9
+rock:10
+says:10
+such:10
+emotion:10
+tell:10
+movie:10
+believe:10
+if:10
+thing:10
+ago:10
+friend:10
+lady:10
+sings:10
+want:10
+understand:10
+all:10
+generation:11
+hit:11
+enjoy:11
+yes:11
+long:11
+put:11
+someone:11
+away:11
+work:11
+band:11
+find:11
+called:11
+lol:11
+words:11
+voices:11
+eyes:11
+thought:11
+kind:11
+re:11
+dance:11
+her:11
+lot:11
+pretty:11
+gon:11
+gon	na:11
+sounds:12
+brilliant:12
+girl:12
+around:12
+tears:12
+single:12
+wrong:12
+there:12
+tune:12
+nowadays:12
+lovely:12
+times:12
+sure:12
+romantic:12
+guy:12
+play:13
+played:13
+nothing:13
+they:13
+right:13
+seen:13
+something:13
+look:13
+may:13
+youtube:13
+new:14
+very:14
+name:14
+pop:14
+feeling:14
+original:14
+era:14
+no:15
+live:15
+us:15
+ca:15
+anymore:15
+without:15
+singers:16
+came:16
+country:16
+forever:16
+sound:16
+little:16
+wow:16
+even:16
+na:16
+say:16
+feel:17
+feel	song:9
+true:17
+anyone:17
+fantastic:17
+another:17
+back:18
+greatest:18
+that:18
+makes:18
+makes	song:10
+age:19
+young:19
+ve:19
+ve	song:10
+but:19
+go:19
+see:19
+days:20
+well:20
+wonderful:20
+made:20
+favorite:20
+thanks:20
+got:20
+elvis:21
+every:21
+every	song:10
+loved:21
+loved	song:9
+amazing:21
+amazing	song:10
+classic:21
+so:21
+so	song:10
+lyrics:21
+first:22
+first	song:11
+first	time:12
+she:23
+day:24
+day	song:13
+wish:24
+god:25
+nice:25
+nice	song:12
+make:25
+make	like:10
+come:26
+singing:26
+singing	song:10
+sad:26
+sad	song:13
+way:26
+way	song:9
+real:26
+real	music:12
+he:27
+life:27
+life	song:11
+life	love:12
+heart:27
+heart	song:12
+and:27
+and	song:9
+better:27
+years:28
+years	old:10
+years	song:11
+sing:29
+sing	love:9
+sing	song:10
+version:29
+version	one:9
+version	song:16
+man:30
+man	song:10
+man	love:10
+my:30
+my	song:15
+world:30
+world	song:14
+you:31
+you	song:9
+you	never:9
+heard:31
+heard	love:10
+heard	song:14
+people:31
+people	music:10
+people	song:11
+listening:31
+listening	love:10
+listening	song:13
+get:32
+get	song:11
+video:32
+video	song:11
+what:32
+what	voice:10
+what	song:13
+today:32
+today	songs:10
+today	like:11
+today	music:13
+many:35
+many	love:11
+many	great:11
+many	song:15
+singer:35
+singer	love:10
+singer	great:10
+old:35
+old	songs:9
+old	love:10
+old	song:12
+listen:36
+listen	music:11
+listen	song:15
+could:37
+could	song:14
+hear:38
+hear	love:11
+hear	song:17
+still:42
+still	love:9
+still	song:20
+thank:43
+thank	song:14
+thank	song	much:9
+thank	much:15
+think:43
+think	music:11
+think	song:17
+would:44
+would	song:19
+best:45
+best	music:10
+best	ever:13
+best	song:16
+ever:47
+ever	music:9
+ever	the:10
+ever	one:12
+ever	song:15
+really:48
+really	great:9
+really	time:9
+really	one:10
+really	like:10
+really	love:15
+really	song:17
+much:49
+much	music:9
+much	love:12
+much	song:22
+good:50
+good	one:9
+good	like:10
+good	music:15
+good	song:17
+always:51
+always	love:13
+always	song:20
+it:52
+it	one:10
+it	like:12
+it	song:26
+know:52
+know	song:18
+never:53
+never	time:9
+never	like:9
+never	music:12
+never	love:13
+never	song:21
+this:66
+this	music:12
+this	love:13
+this	song:33
+the:68
+the	music:10
+the	great:11
+the	love:12
+the	one:12
+the	song:23
+songs:71
+songs	beautiful:10
+songs	great:11
+songs	like:11
+songs	song:12
+songs	music:12
+songs	love:15
+songs	one:17
+time:72
+time	like:9
+time	music:11
+time	love:13
+time	one:19
+time	song:25
+beautiful:78
+beautiful	like:9
+beautiful	one:10
+beautiful	music:16
+beautiful	love:17
+beautiful	love	song:15
+beautiful	voice:19
+beautiful	song:40
+voice:79
+voice	love:10
+voice	great:10
+voice	one:12
+voice	song:13
+voice	music:15
+voice	like:15
+great:85
+great	music:12
+great	love:16
+great	love	song:9
+great	one:19
+great	song:31
+like:98
+like	love:15
+like	love	song:10
+like	one:20
+like	music:25
+like	song:35
+one:104
+one	music:18
+one	love:20
+one	love	song:12
+one	song:26
+music:123
+music	song:23
+music	song	love:10
+music	love:25
+love:131
+love	song:65
+song:251
