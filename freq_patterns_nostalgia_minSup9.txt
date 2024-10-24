@@ -92,9 +92,9 @@ country	music:9
 growing:14
 tears:14
 brought:14
+brought	song:9
 brought	back:9
 brought	memories:9
-brought	song:9
 take:14
 take	back:10
 now:15
@@ -119,8 +119,8 @@ listened:16
 lot:16
 lot	memories:10
 lot	memories	song:9
-lot	song:11
 lot	back:11
+lot	song:11
 and:16
 live:16
 live	song:9
@@ -201,8 +201,8 @@ long:23
 long	time:11
 long	song:13
 sad:23
-sad	song:9
 sad	back:9
+sad	song:9
 child:24
 child	song:12
 year:24
@@ -217,8 +217,8 @@ away:25
 away	song:13
 away	passed:13
 today:25
-today	song:10
 today	back:10
+today	song:10
 kid:26
 kid	song:16
 wish:26
@@ -257,13 +257,13 @@ go	time	back:9
 go	back:19
 day:28
 day	years:9
-day	remember:9
 day	time:9
+day	remember:9
 day	back:11
 day	song:15
 little:29
-little	remember:9
 little	back:9
+little	remember:9
 little	song:19
 mum:29
 mum	miss:9
@@ -279,8 +279,8 @@ takes	song	back:12
 takes	back:29
 favorite:30
 favorite	this:9
-favorite	memories:9
 favorite	back:9
+favorite	memories:9
 favorite	song:17
 passed:30
 passed	my:9
@@ -288,8 +288,8 @@ passed	years:12
 passed	song:17
 makes:31
 makes	back:9
-makes	memories:10
 makes	love:10
+makes	memories:10
 makes	song:15
 wonderful:31
 wonderful	back:13
@@ -312,13 +312,13 @@ really	time:9
 really	years:12
 really	song:20
 radio:34
-radio	time:9
 radio	remember:9
+radio	time:9
 radio	back:12
 radio	song:14
 life:35
-life	memories:9
 life	time:9
+life	memories:9
 life	love:10
 life	back:12
 life	song:14
@@ -344,8 +344,8 @@ happy	song:19
 happy	song	memories:9
 happy	memories:22
 sing:39
-sing	dad:9
 sing	love:9
+sing	dad:9
 sing	back:10
 sing	my:12
 sing	used:16
@@ -376,23 +376,23 @@ the	old:9
 the	school:9
 the	love:9
 the	time:10
-the	back:13
 the	music:13
 the	memories:13
+the	back:13
 the	song:21
 hear:43
-hear	love:9
 hear	memories:9
 hear	years:9
+hear	love:9
 hear	time:13
 hear	time	song:9
 hear	back:15
 hear	back	song:11
 hear	song:28
 listen:43
+listen	old:9
 listen	memories:9
 listen	memories	song:9
-listen	old:9
 listen	years:13
 listen	years	song:10
 listen	time:14
@@ -413,8 +413,8 @@ young	remember:16
 young	remember	song:10
 young	song:24
 heard:45
-heard	my:9
 heard	old:9
+heard	my:9
 heard	remember:10
 heard	back:11
 heard	still:12
@@ -458,32 +458,32 @@ voice	still:10
 voice	beautiful:12
 voice	back:14
 voice	remember:15
-voice	song:16
 voice	great:16
+voice	song:16
 one:47
 one	time:9
 one	years:11
-one	songs:12
 one	this:12
 one	this	song:9
 one	love:12
+one	songs:12
 one	back:13
 one	memories:14
 one	song:23
 school:49
-school	remember:9
 school	memories:9
 school	time:9
+school	remember:9
 school	love:10
 school	old:10
 school	back:16
 school	song:25
 like:50
-like	songs:9
 like	time:9
-like	remember:10
-like	memories:10
+like	songs:9
 like	good:10
+like	memories:10
+like	remember:10
 like	old:12
 like	old	song:9
 like	old	years:10
@@ -495,13 +495,13 @@ like	back:22
 like	back	song:14
 like	song:29
 dad:50
-dad	back:9
 dad	time:9
-dad	always:10
-dad	much:10
+dad	back:9
 dad	years:10
-dad	memories:12
+dad	much:10
+dad	always:10
 dad	reminds:12
+dad	memories:12
 dad	remember:13
 dad	remember	song:9
 dad	miss:14
@@ -509,10 +509,10 @@ dad	my:17
 dad	my	song:13
 dad	song:29
 it:50
-it	beautiful:9
-it	childhood:9
-it	great:9
 it	brings:9
+it	childhood:9
+it	beautiful:9
+it	great:9
 it	old:10
 it	old	years:9
 it	this:11
@@ -530,8 +530,8 @@ loved:52
 loved	music:9
 loved	great:9
 loved	songs:9
-loved	much:10
 loved	years:10
+loved	much:10
 loved	memories:11
 loved	back:13
 loved	song:25
@@ -541,8 +541,8 @@ much	love:12
 much	reminds:12
 much	memories:14
 much	memories	song:9
-much	years:17
 much	back:17
+much	years:17
 much	miss:20
 much	miss	song:10
 much	song:29
@@ -552,8 +552,8 @@ listening	old:10
 listening	brings:10
 listening	brings	back:9
 listening	music:12
-listening	years:13
 listening	remember:13
+listening	years:13
 listening	memories:19
 listening	memories	back:10
 listening	memories	song:11
@@ -596,39 +596,39 @@ first	this	song:11
 first	old:12
 first	love:13
 first	love	song:9
-first	back:15
-first	back	song:13
 first	memories:15
 first	memories	song:11
+first	back:15
+first	back	song:13
 first	years:17
 first	years	song:10
-first	time:19
-first	time	song:11
 first	remember:19
 first	remember	song:10
+first	time:19
+first	time	song:11
 first	song:37
 always:62
-always	music:9
 always	reminds:9
+always	music:9
 always	time:10
-always	miss:11
 always	this:11
 always	this	song:9
+always	miss:11
 always	remember:12
 always	memories:16
-always	memories	back:9
 always	memories	song:9
+always	memories	back:9
 always	love:16
 always	back:18
 always	back	song:10
 always	song:34
 songs:62
 songs	old:9
-songs	time:11
 songs	great:11
-songs	years:12
+songs	time:11
 songs	brings:12
 songs	brings	memories:10
+songs	years:12
 songs	song:17
 songs	memories:19
 songs	memories	love:9
@@ -640,28 +640,28 @@ still	miss:9
 still	old:11
 still	old	years:9
 still	time:11
-still	remember:15
-still	remember	song:12
 still	this:15
 still	this	song:12
-still	memories:18
-still	memories	back:9
-still	memories	song:11
+still	remember:15
+still	remember	song:12
 still	love:18
 still	love	years:9
 still	love	song:10
+still	memories:18
+still	memories	back:9
+still	memories	song:11
 still	back:20
 still	back	song:13
 still	years:24
 still	years	song:15
 still	song:34
 my:70
-my	brings:9
 my	beautiful:9
+my	brings:9
 my	this:10
-my	love:12
 my	years:12
 my	years	song:10
+my	love:12
 my	back:16
 my	back	memories:9
 my	time:16
@@ -670,16 +670,16 @@ my	memories:20
 my	memories	song:9
 my	song:41
 good:70
+good	time:10
 good	this:10
 good	this	song:9
 good	remember:10
-good	time:10
+good	music:11
+good	music	memories:9
 good	love:11
 good	love	memories:9
 good	love	back:9
 good	love	song:9
-good	music:11
-good	music	memories:9
 good	years:16
 good	years	back:11
 good	days:18
@@ -712,9 +712,9 @@ reminds	this	song:23
 reminds	song:42
 miss:74
 miss	brings:9
+miss	this:9
 miss	music:9
 miss	childhood:9
-miss	this:9
 miss	beautiful:11
 miss	remember:11
 miss	days:11
@@ -728,8 +728,8 @@ beautiful:75
 beautiful	brings:11
 beautiful	brings	memories:9
 beautiful	time:11
-beautiful	love:12
 beautiful	remember:12
+beautiful	love:12
 beautiful	this:13
 beautiful	this	song:10
 beautiful	years:14
@@ -743,13 +743,13 @@ beautiful	memories	song:21
 beautiful	song:50
 childhood:75
 childhood	old:9
-childhood	years:10
 childhood	this:10
 childhood	this	song:9
+childhood	years:10
 childhood	beautiful:11
+childhood	love:12
 childhood	brings:12
 childhood	brings	back:10
-childhood	love:12
 childhood	memories:27
 childhood	memories	song:9
 childhood	memories	back:12
@@ -757,8 +757,8 @@ childhood	back:28
 childhood	back	song:15
 childhood	song:30
 days:78
-days	years:10
 days	time:10
+days	years:10
 days	remember:10
 days	this:13
 days	this	song:10
@@ -771,11 +771,11 @@ days	back	song:12
 days	song:34
 music:89
 music	this:11
+music	old:14
 music	brings:14
+music	brings	back:11
 music	brings	memories:11
 music	brings	memories	back:9
-music	brings	back:11
-music	old:14
 music	great:17
 music	great	memories:9
 music	remember:17
@@ -793,9 +793,9 @@ music	song	back:12
 music	back:32
 great:93
 great	old:11
+great	love:12
 great	years:12
 great	remember:12
-great	love:12
 great	this:13
 great	this	song:11
 great	brings:15
@@ -848,9 +848,9 @@ brings	time	back:10
 memories	brings	time	back:10
 brings	time	memories:12
 brings	old:15
+brings	old	memories:9
 brings	old	song:9
 brings	old	song	back:9
-brings	old	memories:9
 brings	old	years:10
 back	brings	old	years:10
 brings	old	back:14
@@ -862,10 +862,10 @@ brings	love	memories:15
 brings	love	memories	back:13
 brings	love	back:17
 brings	years:21
-brings	years	memories:12
-brings	years	memories	back:11
 brings	years	song:12
 brings	years	song	back:12
+brings	years	memories:12
+brings	years	memories	back:11
 brings	years	back:20
 brings	song:50
 brings	song	memories:40
@@ -886,16 +886,16 @@ old	remember	years:14
 old	remember	years	song:10
 old	memories:25
 old	memories	back:11
-old	memories	song:13
 old	memories	years:13
 old	memories	years	song:9
+old	memories	song:13
 old	back:35
 old	back	song:18
 old	back	song	years:12
 old	back	years:21
-old	song:55
 old	years:55
 old	years	song:33
+old	song:55
 time:113
 time	remember:19
 time	remember	song:11

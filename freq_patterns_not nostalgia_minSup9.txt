@@ -189,15 +189,15 @@ version:29
 version	one:9
 version	song:16
 man:30
-man	song:10
 man	love:10
+man	song:10
 my:30
 my	song:15
 world:30
 world	song:14
 you:31
-you	song:9
 you	never:9
+you	song:9
 heard:31
 heard	love:10
 heard	song:14
@@ -223,8 +223,8 @@ many	love:11
 many	great:11
 many	song:15
 singer:35
-singer	love:10
 singer	great:10
+singer	love:10
 old:35
 old	songs:9
 old	love:10
@@ -261,8 +261,8 @@ ever	song:15
 really:48
 really	great:9
 really	time:9
-really	one:10
 really	like:10
+really	one:10
 really	love:15
 really	song:17
 much:49
@@ -284,8 +284,8 @@ it	song:26
 know:52
 know	song:18
 never:53
-never	time:9
 never	like:9
+never	time:9
 never	music:12
 never	love:13
 never	song:21
@@ -322,8 +322,8 @@ beautiful	love	song:15
 beautiful	voice:19
 beautiful	song:40
 voice:79
-voice	love:10
 voice	great:10
+voice	love:10
 voice	one:12
 voice	song:13
 voice	music:15
